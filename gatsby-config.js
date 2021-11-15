@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             name: `Homepage`,
-            url: `http://www.themasterlife.fr`,
+            url: `http://www.themasterdev.fr`,
           },
           {
             name: `Github`,
